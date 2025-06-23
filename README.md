@@ -3,7 +3,9 @@ KOF2002 ETO (Extra training options) is a lua addon to fbneo-training-mode,
 currently it only adds infinite maximum mode duration but other features are 
 being planned.
 
-![](https://github.com/SoykaffAddict/kof2002-ETO/blob/main/demo.gif) ![](https://github.com/SoykaffAddict/kof2002-ETO/blob/main/ETO_hub.png)
+Demo             |  Hub
+:-------------------------:|:-------------------------:
+![](https://github.com/SoykaffAddict/kof2002-ETO/blob/main/demo.gif) | ![](https://github.com/SoykaffAddict/kof2002-ETO/blob/main/ETO_hub.png)
 
 For it to work, from the Fightcade root folder copy the addon 
 folder into:
