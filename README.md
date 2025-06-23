@@ -7,6 +7,7 @@ planned.
 
 For it to work, from the Fightcade root folder copy the contents of the addon 
 folder into:
+
 emulator/fbneo/fbneo-training-mode/games/kof2002/
 
 Special thanks to whoever wrote the missions addon, it helped understand the 
