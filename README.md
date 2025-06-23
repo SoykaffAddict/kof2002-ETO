@@ -1,7 +1,7 @@
 # kof2002-ETO
 KOF2002 ETO (Extra training options) is a lua addon to fbneo-training-mode,
-currently it only adds infinite maximum mode but other features are being
-planned.
+currently it only adds infinite maximum mode duration but other features are 
+being planned.
 
 ![](https://github.com/SoykaffAddict/kof2002-ETO/blob/main/demo.gif)
 
