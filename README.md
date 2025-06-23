@@ -13,5 +13,6 @@ folder into:
 
 emulator/fbneo/fbneo-training-mode/games/kof2002/
 
+
 Special thanks to whoever wrote the missions addon, it helped understand the 
 inner workings of the addons support.
