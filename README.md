@@ -5,7 +5,7 @@ planned.
 
 ![](https://github.com/SoykaffAddict/kof2002-ETO/blob/main/demo.gif)
 
-For it to work, from the Fightcade root folder copy the contents of the addon 
+For it to work, from the Fightcade root folder copy the addon 
 folder into:
 
 emulator/fbneo/fbneo-training-mode/games/kof2002/
